@@ -9,13 +9,13 @@ include .env in backend folder
 .env 
 <------Start of the File-------->
 
-# MongoDB Configuration
+
 MONGODB_URI=mongodb://localhost:27017/logistics-booking
 
-# Server Configuration
+
 PORT=5000
 
-# Application Configuration
+
 NODE_ENV=development
 
 
